@@ -5,3 +5,4 @@ nav:
  - 'Cosmos Gateway': 'gateway.md'
  - 'CCTP Bridge': 'cctp.md'
  - native-token-transfers
+ - 'Composable Intents': 'composable-intents.md'
